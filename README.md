@@ -1,4 +1,6 @@
 # place
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpatrickwjh%2Fpixel-art-example.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpatrickwjh%2Fpixel-art-example?ref=badge_shield)
+
 
 ## Introduction
 
@@ -20,3 +22,7 @@ FIREBASE_MEASUREMENT_ID=
 ```
 
 Once done you'll be able to run it as a regular flutter web app project or you can publish it using Firebase hosting solution.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpatrickwjh%2Fpixel-art-example.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpatrickwjh%2Fpixel-art-example?ref=badge_large)
